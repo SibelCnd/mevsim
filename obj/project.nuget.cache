@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wewcLKP6LO2oETCCkfKuMrc4Hmt9ey8zEzrvZd/v/sH544pWL0+z1fApK0IwsFeq4LKY0xV69tAYPv5GKMjLfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\Mevsim\\Mevsim2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
